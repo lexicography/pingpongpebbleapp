@@ -1,5 +1,5 @@
 # PingPong Pebble App
-===
+
 This beta Pebble App requires a running [PingPong](https://github.com/keen/pingpong) instance. You will also need a [Keen IO](http://keen.io) account to add your project and read keys.
 
 This app was written as a demo for integrating [Keen IO](http://keen.io) into a Pebble app. It does work, but there are lots of improvements that could be made, and there's a good chance some of the charting math is a little off.
