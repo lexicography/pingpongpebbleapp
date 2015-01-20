@@ -5,7 +5,7 @@ This app was written as a demo for integrating [Keen IO](http://keen.io) into a 
 
 The app lets you browse the different API check's set up in Pingpong and see the last 30 minutes of average response times in a small bar graph.
 
-![Pingpong Pebble App example](https://raw.githubusercontent.com/keen/pingpongpebbleapp/master/img/screen_shot.png)
+![Pingpong Pebble App example](/img/screen_shot.png?raw=true)
 
 ## Installation
 
