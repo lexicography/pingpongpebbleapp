@@ -11,6 +11,13 @@ The app lets you browse the different API check's set up in Pingpong and see the
 
 Create a new pebble app on [cloudpebble.net](http://www.cloudpebble.net) and choose to make a new pebble.js app. Copy the app.js into the main js file for the app, and add your projectId and readKey from your [Pingpong](https://github.com/keen/pingpong) [Keen IO](http://keen.io) collection.
 
+```ruby
+  var config = { 
+    projectId: "PROJECTIDHERE",
+    readKey: "READKEYHERE"
+  };  
+```
+
 ## Contributions
 
 Feel free to use this as a template for another application, or build this out as a cool monitoring tool.
